@@ -8,4 +8,9 @@ public class MyDetailspage {
 	}
 	
 
+	
+	public void Domepage2()
+	{
+		System.out.println("this is Domepage2 method");
+	}
 }
