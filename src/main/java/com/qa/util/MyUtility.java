@@ -7,6 +7,15 @@ public class MyUtility {
 		System.out.println("this is MyUtility1 method");
 		
 		System.out.println("this is MyUtility2 method");
+		
+		System.out.println("this is MyUtility2 method");
+		
+		System.out.println("this is MyUtility2 method");
+		
+
+		
+
+		
 	}
 	
 
