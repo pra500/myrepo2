@@ -12,6 +12,9 @@ public class MyDetailspage {
 	
 
 	//this is  Domepage2 mtd:
+	//this is  Domepage2 mtd:
+	//this is  Domepage2 mtd:
+	//this is  Domepage2 mtd:
 	public void Domepage2()
 	{
 		System.out.println("this is Domepage2 method");
